@@ -1,10 +1,8 @@
-Titanic Survival Prediction 🚢 💀
+# Titanic Survival Prediction 🚢💀⚓
 
-Dive into the Titanic dataset with two exciting notebooks:
+🌊 **Set sail on a data adventure!**
 
-EDA Notebook: Explore patterns, trends, and insights behind passenger survival.
+- **EDA Notebook 📊✨** – Explore passenger data and visualize survival trends.
+- **ML Notebook 🤖🌲** – Predict survival using a Random Forest Classifier and uncover key features.
 
-ML Notebook: Predict survival using a Random Forest Classifier and see which features matter most.
-
-A compact journey from data exploration to prediction — because every dataset has a story to tell!
-![Sinking Ship](https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif)
+![Sinking Titanic](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
